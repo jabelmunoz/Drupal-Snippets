@@ -1,11 +1,11 @@
 <?php
 /**
-  To add custom CSS classes to a paragraph (or any other entity for that matter)
-
-   - Add a text field to an entity called CSS Class (field_css_class)
-   - Hide that text field from the display mode of that entity
-   - In the custom module add the following code
-   - Clear the cache and now you can style based on that class that you add
+*  To add custom CSS classes to a paragraph (or any other entity for that matter)
+*
+*   - Add a text field to an entity called CSS Class (field_css_class)
+*   - Hide that text field from the display mode of that entity
+*   - In the custom module add the following code
+*   - Clear the cache and now you can style based on that class that you add
 **/
 
 /**
