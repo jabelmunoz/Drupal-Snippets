@@ -2,6 +2,8 @@
 /*
 *   If you need to allow spans or br in title fields this is a way to go about it
 *
+*   This goes in your custom module
+*
 *   Add text format Title
 *   In Limit allowed HTML tags add <span> <br />
 *

@@ -2,6 +2,8 @@
 /**
 *  To add custom CSS classes to a paragraph (or any other entity for that matter)
 *
+*   This goes in your custom module
+*
 *   - Add a text field to an entity called CSS Class (field_css_class)
 *   - Hide that text field from the display mode of that entity
 *   - In the custom module add the following code
